@@ -4,7 +4,7 @@ class Employee:
     self.age = age
     self.salary = 200900
 
-      
+        
 E1 = Employee("XYZ", 23, 20000)
 # E1 is the instance of class Employee.
 #__init__ allocates memory for E1. 
